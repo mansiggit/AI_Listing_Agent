@@ -11,27 +11,28 @@
 <br>
 
 **🔍 Search Page**
-![Search Page](screenshots/screenshot-1.png)
+![Search Page](ss/ss1.png)
 
 <br>
 
 **📊 Results with Metrics**
-![Results with Metrics](screenshots/screenshot-2.png)
+![Results with Metrics](ss/ss2.png)
+![Results with Metrics](ss/ss3.png)
 
 <br>
 
 **📦 Batch Search**
-![Batch Search](screenshots/screenshot-3.png)
+![Batch Search](ss/ss4.png)
 
 <br>
 
 **📜 Search History**
-![Search History](screenshots/screenshot-4.png)
+![Search History](ss/ss5.png)
 
 <br>
 
 **📋 Google Sheets Output**
-![Google Sheets Output](screenshots/screenshot-5.png)
+![Google Sheets Output](ss/ss6.png)
 
 <br>
 
@@ -97,7 +98,7 @@ ai-listing-agent/
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/YOUR_USERNAME/ai-listing-agent.git
+git clone https://github.com/mansiggit/AI_Listing_Agent.git
 cd ai-listing-agent
 ```
 
@@ -251,14 +252,6 @@ venv/
 - [ ] WhatsApp / Email notification when batch is done
 - [ ] Support for multiple countries & languages
 - [ ] Chrome Extension version
-
-<br>
-
----
-
-## 📄 License
-
-MIT License — free to use, modify, and distribute.
 
 <br>
 
